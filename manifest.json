@@ -7,7 +7,7 @@
   "orientation": "portrait",
   "scope": "/",
   "short_name": "Denomo",
-  "start_url": "/",
+  "start_url": "https://demashqi.github.io/pwa/",
   "theme_color": "#e83e8c",
   "categories": [
     "lifestyle",
@@ -478,10 +478,10 @@
   "shortcuts": [
     {
       "name": "About",
-      "url": "about.html",
+      "url": "https://demashqi.github.io/pwa/about.html",
       "icons": [
         {
-          "src": "about.png"
+          "src": "https://demashqi.github.io/pwa/about.png"
         }
       ],
       "description": "About US"
