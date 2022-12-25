@@ -3,10 +3,10 @@
   "description": "The best wedding app in the world. Connect with your loved ones!",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Denom NEW",
+  "name": "Denomo",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "Denom New",
+  "short_name": "Denomo",
   "start_url": "/",
   "theme_color": "#e83e8c",
   "categories": [
@@ -478,7 +478,7 @@
   "shortcuts": [
     {
       "name": "About",
-      "url": "/about.html",
+      "url": "about.html",
       "icons": [
         {
           "src": "about.png"
