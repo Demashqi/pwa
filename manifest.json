@@ -481,7 +481,7 @@
       "url": "/about.html",
       "icons": [
         {
-          "src": "/about.png"
+          "src": "about.png"
         }
       ],
       "description": "About US"
