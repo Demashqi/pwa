@@ -3,11 +3,11 @@
   "description": "The best wedding app in the world. Connect with your loved ones!",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Denom",
+  "name": "Denomo",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "Denom",
-  "start_url": "/?utm_medium=PWA&amp;utm_source=launcher",
+  "short_name": "Denomo",
+  "start_url": "https://demashqi.github.io/pwa/",
   "theme_color": "#e83e8c",
   "categories": [
     "lifestyle",
@@ -432,8 +432,9 @@
     },
     {
       "src": "ios/114.png",
-      "sizes": "114x114"
+      "sizes": "any"
     },
+    
     {
       "src": "ios/120.png",
       "sizes": "120x120"
@@ -478,10 +479,10 @@
   "shortcuts": [
     {
       "name": "About",
-      "url": "/about.html",
+      "url": "https://demashqi.github.io/pwa/about.html",
       "icons": [
         {
-          "src": "/about.png"
+          "src": "https://demashqi.github.io/pwa/about.png"
         }
       ],
       "description": "About US"
