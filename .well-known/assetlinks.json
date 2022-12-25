@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.github.demashqi.twa",
+                     "sha256_cert_fingerprints": ["3F:0B:DC:87:0C:76:AF:9C:09:E8:9B:4A:13:23:88:2B:67:09:06:CC:0A:A4:08:44:62:CD:2B:97:34:BE:27:84"] }
+      }
+]
