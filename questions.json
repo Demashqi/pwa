@@ -1,0 +1,11 @@
+
+[  {    "question": "What is the capital of France?",    "image": "https://example.com/france.jpg",    "options": ["Paris", "London", "Madrid", "Rome"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "image": "https://example.com/italy.jpg",
+    "options": ["Paris", "Rome", "Madrid", "London"],
+    "answer": 1
+  }
+]
